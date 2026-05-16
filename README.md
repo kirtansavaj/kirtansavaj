@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="mailto:hitkalariya88@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Professional%20Contact-hitkalariya88@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&logoWidth=20"/>
+  <a href="mailto:Kirtansavaj@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Professional%20Contact-kirtansavaj@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&logoWidth=20"/>
   </a>
 </div>
 

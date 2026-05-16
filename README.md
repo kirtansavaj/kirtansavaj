@@ -48,7 +48,7 @@
 <img align="right" alt="Coding" height="273" width="307" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" autoplay loop>
 
 ```yaml
-Name: Hit Kalariya
+Name: Kirtan Savaj
 
 Role: AI-ML Developer and Researcher
 

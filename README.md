@@ -32,10 +32,10 @@
 <br clear="right"/>
 
 <p align="center">
-  <a href="https://github.com/hitkalariya">
+  <a href="https://github.com/kirtansavaj">
   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hitkalariya?color=667eea&style=for-the-badge&labelColor=2d3748&logo=star&v=12345"/>
 </a>
-  <a href="https://github.com/hitkalariya">
+  <a href="https://github.com/kirtansavaj">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hitkalariya?color=764ba2&style=for-the-badge&labelColor=2d3748&logo=person-add"/>
   </a>
   <a href="https://github.com/hitkalariya">

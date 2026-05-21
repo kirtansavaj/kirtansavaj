@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/📧%20Professional%20Contact-kirtansavaj@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&logoWidth=20"/>
   </a>
 </div>
-!
+
 <div align="center">
   <img src="https://img.shields.io/badge/🌐%20Let's%20Connect-4facfe?style=for-the-badge&labelColor=2d3748"/>
   <img src="https://img.shields.io/badge/🤝%20Collaborate-00f2fe?style=for-the-badge&labelColor=2d3748"/>
